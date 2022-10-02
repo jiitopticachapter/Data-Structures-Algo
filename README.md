@@ -18,8 +18,8 @@ Steps to follow :
 
 #Criteria for getting your pr merged
 Steps to follow :
-1.Give the intiution/bruteforce approach.
-2.Give optimised approach 
-3.write the code to optiimised approach.  
+1.Give the intiution/bruteforce approach.<br>
+2.Give optimised approach <br>
+3.write the code to optiimised approach.  <br>
 
 ### Accepted for Hacktoberfest ###
