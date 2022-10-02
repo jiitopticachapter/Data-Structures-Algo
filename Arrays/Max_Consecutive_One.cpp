@@ -1,7 +1,9 @@
 /*
 This program uses kadane's alogrithm as its base to solve the problem in O(n)
-time complexity.
-Approach is to traverse the array and keep calculating the sum till ith 
+time complexity and O(1) space complexity.
+
+Approach:
+To traverse the array linearly and keep calculating the sum till ith 
 index using Curr_Max variable and if Max_Sum is smaller than Curr_Max
 than make Max_Sum=Curr_Max.
 */
