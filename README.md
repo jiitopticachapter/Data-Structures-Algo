@@ -1,11 +1,10 @@
 
-# 👨‍💻 Data-Structures-Algo 👨‍💻 
+# 👨‍💻 Data-Structures-Algorithm 👨‍💻 
 
-This repo is for the solutions from mixture of all sheets on internet in detail with the gist of approach used.
-All the questions choosed have unique approaches.
-Later on this repo can be used for revision purpose during placements.
-Happy Coding !!
-Keep learning 
+- This repo contains solutions for famous coding questions with a gist of data-structures and approach used. <br>
+- All the questions choosen have unique approaches. <br>
+- This repo later can also be used for revision purpose during placements. <br>
+
 # Contribute
 
 Write any algorithm of your choice in c++ only.<br>
@@ -36,6 +35,7 @@ All Arrays related programs are present here.
 
 <pre>
 • <a href="https://github.com/jiitopticachapter/Data-Structures-Algo/blob/main/Arrays/start.cpp">Start</a>
+• <a href="https://github.com/jiitopticachapter/Data-Structures-Algo/blob/main/Arrays/Kadane's_algorithm.cpp">Kadane's Algorithm</a>
 </pre>
 
 ---
@@ -124,4 +124,13 @@ All Trees related programs are present here.
 
 ---
 
-### Accepted for Hacktoberfest ###
+
+# Criteria for getting your PR merged
+
+Steps to follow :
+1. Give a bruteforce approach <br>
+2. Design an optimised approach with its intuition <br>
+3. Submit the code of optimised approach  <br>
+
+Happy Coding !! <br>
+Keep learning.
