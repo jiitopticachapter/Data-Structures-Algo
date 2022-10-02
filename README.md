@@ -17,7 +17,7 @@ Steps to follow :
 
 ## Table of Contents
 
--   [Arrays](#Graph)
+-   [Arrays](#Arrays)
 -   [Binary_Search](#Binary_Search)
 -   [Dynamic_Programming](#Dynamic_Programming)
 -   [Graph](#Graph)
