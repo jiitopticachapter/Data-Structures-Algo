@@ -24,7 +24,7 @@ Steps to follow :
 -   [Greedy](#Greedy)
 -   [Linked_List](#Linked_List)
 -   [Sliding_Window](#Sliding_Window)
--   [String](#String)
+-   [Strings](#Strings)
 -   [Trees](#Trees)
 
 
