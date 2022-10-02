@@ -1,9 +1,9 @@
 
 # 👨‍💻 Data-Structures-Algorithm 👨‍💻 
 
-This repo contains solutions for famous coding questions with a gist of data-structures and approach used.
-All the questions choosen have unique approaches.
-This repo later can also be used for revision purpose during placements.
+- This repo contains solutions for famous coding questions with a gist of data-structures and approach used. <br>
+- All the questions choosen have unique approaches. <br>
+- This repo later can also be used for revision purpose during placements. <br>
 
 # Contribute
 
@@ -20,8 +20,6 @@ Steps to follow :
 1. Give a bruteforce approach <br>
 2. Design an optimised approach with its intuition <br>
 3. Submit the code of optimised approach  <br>
-
-### Accepted for Hacktoberfest ###
 
 Happy Coding !! <br>
 Keep learning.
