@@ -23,5 +23,5 @@ Steps to follow :
 
 ### Accepted for Hacktoberfest ###
 
-Happy Coding !!
+Happy Coding !! <br>
 Keep learning.
