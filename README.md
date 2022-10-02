@@ -1,11 +1,9 @@
 
-# 👨‍💻 Data-Structures-Algo 👨‍💻 
+# 👨‍💻 Data-Structures-Algorithm 👨‍💻 
 
-This repo is for the solutions from mixture of all sheets on internet in detail with the gist of approach used.
-All the questions choosed have unique approaches.
-Later on this repo can be used for revision purpose during placements.
-Happy Coding !!
-Keep learning 
+This repo contains solutions for famous coding questions with a gist of data-structures and approach used.
+All the questions choosen have unique approaches.
+This repo later can also be used for revision purpose during placements.
 
 # Contribute
 
@@ -16,10 +14,14 @@ Steps to follow :
 3. Add that file in the folder of that particular topic. For example kruskal algorithm  will go in Graph folder.
 4. Open a pull request.
 
-#Criteria for getting your pr merged
+# Criteria for getting your PR merged
+
 Steps to follow :
-1.Give the intiution/bruteforce approach.<br>
-2.Give optimised approach <br>
-3.write the code to optiimised approach.  <br>
+1. Give a bruteforce approach <br>
+2. Design an optimised approach with its intuition <br>
+3. Submit the code of optimised approach  <br>
 
 ### Accepted for Hacktoberfest ###
+
+Happy Coding !!
+Keep learning.
