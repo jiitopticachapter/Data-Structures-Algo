@@ -45,7 +45,7 @@ All Arrays related programs are present here.
 All Binary Search programs are present here.
 
 <pre>
-• <a href="https://github.com/jiitopticachapter/Data-Structures-Algo/blob/main/Binary_Search/start.cpp">Start/a>
+• <a href="https://github.com/jiitopticachapter/Data-Structures-Algo/blob/main/Binary_Search/start.cpp">Start</a>
 • <a href="https://github.com/jiitopticachapter/Data-Structures-Algo/blob/main/Binary_Search/binarySearch.cpp">Binary Search</a>
 </pre>
 
