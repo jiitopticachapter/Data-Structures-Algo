@@ -40,7 +40,7 @@ All Arrays related programs are present here.
 
 ---
 
-## Binary Search
+## Binary_Search
 
 All Binary Search programs are present here.
 
@@ -51,7 +51,7 @@ All Binary Search programs are present here.
 
 ---
 
-## Dynamic Programming
+## Dynamic_Programming
 
 All DP programs are present here.
 
@@ -83,7 +83,7 @@ All Greedy Algorithm related programs are present here.
 
 ---
 
-## Linked List
+## Linked_List
 
 All Linked List programs are present here.
 
@@ -94,7 +94,7 @@ All Linked List programs are present here.
 
 ---
 
-## Sliding Window
+## Sliding_Window
 
 All Sliding Window programs are present here.
 
