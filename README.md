@@ -14,6 +14,117 @@ Steps to follow :
 3. Add that file in the folder of that particular topic. For example kruskal algorithm  will go in Graph folder.
 4. Open a pull request.
 
+## Table of Contents
+
+-   [Arrays](#Arrays)
+-   [Binary_Search](#Binary_Search)
+-   [Dynamic_Programming](#Dynamic_Programming)
+-   [Graph](#Graph)
+-   [Greedy](#Greedy)
+-   [Linked_List](#Linked_List)
+-   [Sliding_Window](#Sliding_Window)
+-   [Strings](#Strings)
+-   [Trees](#Trees)
+
+
+</details>
+
+## Arrays
+
+All Arrays related programs are present here.
+
+<pre>
+• <a href="https://github.com/jiitopticachapter/Data-Structures-Algo/blob/main/Arrays/start.cpp">Start</a>
+• <a href="https://github.com/jiitopticachapter/Data-Structures-Algo/blob/main/Arrays/Kadane's_algorithm.cpp">Kadane's Algorithm</a>
+</pre>
+
+---
+
+## Binary_Search
+
+All Binary Search programs are present here.
+
+<pre>
+• <a href="https://github.com/jiitopticachapter/Data-Structures-Algo/blob/main/Binary_Search/start.cpp">Start</a>
+• <a href="https://github.com/jiitopticachapter/Data-Structures-Algo/blob/main/Binary_Search/binarySearch.cpp">Binary Search</a>
+</pre>
+
+---
+
+## Dynamic_Programming
+
+All DP programs are present here.
+
+<pre>
+• <a href="https://github.com/jiitopticachapter/Data-Structures-Algo/blob/main/Dynamic_Programming/start.cpp">Start</a>
+</pre>
+
+---
+
+
+
+## Graph
+
+All Graph related programs are present here.
+
+<pre>
+• <a href="https://github.com/jiitopticachapter/Data-Structures-Algo/blob/main/Graph/kruskal_algorithm.cpp">Kruskal's Algorithm</a>
+</pre>
+
+---
+
+## Greedy
+
+All Greedy Algorithm related programs are present here.
+
+<pre>
+• <a href="https://github.com/jiitopticachapter/Data-Structures-Algo/blob/main/Greedy/start.cpp">Start</a>
+</pre>
+
+---
+
+## Linked_List
+
+All Linked List programs are present here.
+
+<pre>
+• <a href="https://github.com/jiitopticachapter/Data-Structures-Algo/blob/main/Linked_List/start.cpp">Start</a>
+
+</pre>
+
+---
+
+## Sliding_Window
+
+All Sliding Window programs are present here.
+
+<pre>
+• <a href="https://github.com/jiitopticachapter/Data-Structures-Algo/blob/main/Sliding_Window/start.cpp">Start</a>
+</pre>
+
+---
+
+## Strings
+
+All Strings related programs are present here.
+
+<pre>
+• <a href="https://github.com/jiitopticachapter/Data-Structures-Algo/blob/main/Strings/start.cpp">Start</a>
+</pre>
+
+---
+
+## Trees
+
+All Trees related programs are present here.
+
+<pre>
+• <a href="https://github.com/jiitopticachapter/Data-Structures-Algo/blob/main/Trees/start.cpp">Start</a>
+</pre>
+
+---
+
+
 # Criteria for getting your PR merged
 
 Steps to follow :
