@@ -79,6 +79,7 @@ All Greedy Algorithm related programs are present here.
 
 <pre>
 • <a href="https://github.com/jiitopticachapter/Data-Structures-Algo/blob/main/Greedy/start.cpp">Start</a>
+• <a href="https://github.com/jiitopticachapter/Data-Structures-Algo/blob/main/Greedy/Find_Minimum_Number_of_coins.cpp">Find_Minimum_Number_of_coins</a>
 </pre>
 
 ---
